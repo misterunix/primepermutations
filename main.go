@@ -15,7 +15,7 @@ type Pattern struct {
 }
 
 // prec : We'll do computations with 200 bits of precision in the mantissa.
-const prec = 500
+const prec = 800
 
 var ibuf0 *gd.Image
 
